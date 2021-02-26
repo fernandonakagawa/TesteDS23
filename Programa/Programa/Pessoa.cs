@@ -7,5 +7,6 @@ namespace Programa
     class Pessoa
     {
         string nome;
+        string cpf;
     }
 }
