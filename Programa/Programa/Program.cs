@@ -10,6 +10,7 @@ namespace Programa
             int x = 10;
             int y = 20;
             Console.WriteLine(x + y);
+            Console.WriteLine(x * y);
         }
     }
 }
