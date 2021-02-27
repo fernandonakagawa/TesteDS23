@@ -11,7 +11,7 @@ namespace Programa
             int y = 20;
             Console.WriteLine(x + y);
             Console.WriteLine(x * y);
-            Console.WriteLine(x - 1);
+            Console.WriteLine(x - y);
             Console.WriteLine(x / y);
         }
     }
