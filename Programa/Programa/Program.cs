@@ -12,6 +12,7 @@ namespace Programa
             Console.WriteLine(x + y);
             Console.WriteLine(x * y);
             Console.WriteLine(x - 1);
+            Console.WriteLine(x / y);
         }
     }
 }
