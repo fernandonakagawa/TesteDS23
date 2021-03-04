@@ -14,7 +14,7 @@ namespace Programa
             Console.WriteLine(x - y);
             Console.WriteLine(x / y);
             Console.WriteLine(x ^ 2);
-            Console.WriteLine(x % y);
+            Console.WriteLine("Resto:" + (x % y));
         }
     }
 }
