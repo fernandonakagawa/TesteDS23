@@ -6,6 +6,6 @@ namespace Programa
 {
     class Aluno
     {
-
+        string nome;
     }
 }
